@@ -1,0 +1,38 @@
+0: Abnormal
+1: malignant
+2: intermediate
+3: benign
+4: No bone tumor
+5: carpal bones
+6: clavicle
+7: distal femur
+8: distal fibula
+9: distal humerus
+10: distal radius
+11: distal tibia
+12: distal ulna
+13: femur diaphysis
+14: fibula diaphysis
+15: finger phalanges
+16: hindfoot
+17: humerus diaphysis
+18: metacarpal
+19: metatarsal
+20: midfoot
+21: patella
+22: pelvis
+23: proximal femur
+24: proximal fibula
+25: proximal humerus
+26: proximal radius
+27: proximal tibia
+28: proximal ulna
+29: radius diaphysis
+30: scapula
+31: tibia diaphysis
+32: toe phalanges
+33: ulna diaphysis
+34: neoplastic pathologic fracture
+35: non-pathologic fracture
+36: No fracture
+37: Implant
