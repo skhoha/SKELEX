@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+*.egg-info/
+*.egg
+build/
+dist/
+.Python
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS / OS
+.DS_Store
+Thumbs.db
+
+# Project outputs (training runs, checkpoints, predictions)
+runs/
+outputs/
+results/
+ckpts/
+models/
+*.pt
+*.pth
+*.safetensors
+
+# Data should never be committed
+data/
+*.csv
+*.tsv
+*.xlsx
+!configs/*.txt
+!configs/*.yaml
+!configs/*.yml
